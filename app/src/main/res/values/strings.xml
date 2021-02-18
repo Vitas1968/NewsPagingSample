@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsPagingSample</string>
+    <string name="text_error">ERROR !! Нажмите, чтобы повторить попытку.</string>
+</resources>
